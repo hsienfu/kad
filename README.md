@@ -1,1 +1,1 @@
-## Kademial implemented by Node.js
+## Kademlia implemented by Node.js
